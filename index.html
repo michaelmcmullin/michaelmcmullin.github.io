@@ -4,20 +4,26 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
+  <h1 class="page-heading">Welcome!</h1>
+  
+  <p>I am a software developer based in Dublin, Ireland. I currently work in
+  Ireland's largest digital printing provider, creating automated workflow
+  solutions, application scripting, database development, and various utilities
+  as the need arises.</p>
+  
+  <h2>Selected Projects</h2>
+  
   <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <li>
+      <h3><a href="https://github.com/mrmcnerd/Google-Maps-API-Demo">Google Maps API</a></h3>
+      <p>A demo going through a few interesting Google Maps API features.</p>
+      <dl>
+        <dt>Technologies</dt>
+        <dd>TypeScript, jQuery, Google Maps API, SASS, GruntJS</dd>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
+        <dt>Links</dt>
+        <dd><a href="https://mrmcnerd.github.io/Google-Maps-API-Demo/">Live Demo</a></dd>
+      </dl>
+    </li>
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
