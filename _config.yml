@@ -7,7 +7,7 @@
 
 # Site settings
 title: Michael McMullin
-email: your-email@domain.com
+email: hello@mrmcnerd.com
 description: > # this means to ignore newlines until "baseurl:"
   Software developer based in Dublin, Ireland.
 baseurl: "" # the subpath of your site, e.g. /blog
