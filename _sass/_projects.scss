@@ -16,6 +16,8 @@
     &:after { content: ": "; }
   }
   dd {
+    display: inline;
+    
     ul {
       list-style: none;
       display: inline;
