@@ -1,5 +1,21 @@
 .project-list {
+  list-style: none;
+  
+  h3 { font-size: 17px; }
+  
   dt {
     font-weight: bold;
+    &:after { ": "; }
   }
+  dd {
+    ul {
+      list-style: none;
+      
+      li {
+        display: inline;
+        padding-right: 1em;
+      }
+    }
+  }
+  
 }
