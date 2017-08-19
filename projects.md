@@ -6,6 +6,27 @@ permalink: /projects/
 
 <ul class="project-list">
   <li>
+    <h3>Machine Learning Course</h3>
+    <p>A walkthrough of my completed projects from Andrew Ng's ML course.</p>
+    <dl>
+      <dt>Technologies</dt>
+      <dd>Octave/MATLAB</dd>
+
+      <dt>Topics</dt>
+      <dd>Linear Regression, Logistic Regression, Handwriting Recognition, Neural Networks,
+      Support Vector Machines, Diagnostics, K-Means Clustering, Anomoly Detection, Recommender
+      Systems.</dd>
+
+      <dt>Links</dt>
+      <dd>
+        <ul>
+          <li><a href="https://youtu.be/iodYsrDjFQE">Video</a></li>
+        </ul>
+      </dd>
+    </dl>
+  </li>
+
+  <li>
     <h3>Google Maps API</h3>
     <p>A demo going through a few interesting Google Maps API features.</p>
     <dl>
