@@ -5,7 +5,7 @@
   
   dt {
     font-weight: bold;
-    &:after { ": "; }
+    &:after { content: ": "; }
   }
   dd {
     ul {
