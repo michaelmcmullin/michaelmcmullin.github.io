@@ -11,12 +11,14 @@
   }
   
   dt {
+    clear: both;
+    float: left;
     font-weight: bold;
-    display: inline;
+    margin-top: 5px;
     &:after { content: ": "; }
   }
   dd {
-    display: inline;
+    float: left;
     
     ul {
       list-style: none;
@@ -24,7 +26,7 @@
       
       li {
         display: inline;
-        padding-right: 1em;
+        padding-right: 5px;
       }
     }
   }
