@@ -1,15 +1,24 @@
 .project-list {
   list-style: none;
+  margin: 0;
+  padding: 0;
   
-  h3 { font-size: 17px; }
+  h3 {
+    font-size: 18px;
+    border-bottom: 1px solid #999;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+  }
   
   dt {
     font-weight: bold;
+    display: inline;
     &:after { content: ": "; }
   }
   dd {
     ul {
       list-style: none;
+      display: inline;
       
       li {
         display: inline;
