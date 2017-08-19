@@ -6,9 +6,14 @@
   h3 {
     border-bottom: 1px solid #999;
     clear: both;
+    font-size: 18px;
     margin-bottom: 5px;
     padding-bottom: 5px;
-    font-size: 18px;
+    padding-top: 20px;
+  }
+  
+  dl {
+    width: 100%;
   }
   
   dt {
@@ -16,11 +21,13 @@
     float: left;
     font-weight: bold;
     margin-top: 5px;
+    width: 25%;
     &:after { content: ": "; }
   }
   dd {
     float: left;
     margin-top: 5px;
+    width: 75%;
     
     ul {
       list-style: none;
