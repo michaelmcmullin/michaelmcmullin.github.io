@@ -4,10 +4,11 @@
   padding: 0;
   
   h3 {
-    font-size: 18px;
     border-bottom: 1px solid #999;
-    padding-bottom: 5px;
+    clear: both;
     margin-bottom: 5px;
+    padding-bottom: 5px;
+    font-size: 18px;
   }
   
   dt {
@@ -19,6 +20,7 @@
   }
   dd {
     float: left;
+    margin-top: 5px;
     
     ul {
       list-style: none;
