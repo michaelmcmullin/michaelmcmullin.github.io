@@ -27,6 +27,22 @@ permalink: /projects/
   </li>
 
   <li>
+    <h3>N-Gram Categorisation</h3>
+    <p>C# library to catagorise data using N-Grams.</p>
+    <dl>
+      <dt>Technologies</dt>
+      <dd>C#</dd>
+
+      <dt>Links</dt>
+      <dd>
+        <ul>
+          <li><a href="https://github.com/mrmcnerd/ngram-categorisation">GitHub Repo</a></li>
+        </ul>
+      </dd>
+    </dl>
+  </li>
+
+  <li>
     <h3>Google Maps API</h3>
     <p>A demo going through a few interesting Google Maps API features.</p>
     <dl>
