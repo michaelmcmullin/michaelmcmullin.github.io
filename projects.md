@@ -53,6 +53,7 @@ permalink: /projects/
       <dd>
         <ul>
           <li><a href="https://github.com/mrmcnerd/Google-Maps-API-Demo">GitHub Repo</a></li>
+          <li><a href="https://youtu.be/-6bjXn8Lyuk">Video</a></li>
           <li><a href="https://mrmcnerd.github.io/Google-Maps-API-Demo/">Live Demo</a></li>
         </ul>
       </dd>
