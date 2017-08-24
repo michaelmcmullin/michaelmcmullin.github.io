@@ -43,6 +43,38 @@ permalink: /projects/
   </li>
 
   <li>
+    <h3>Address Locator</h3>
+    <p>Converts an address into latitude and longitude co-ordinates.</p>
+    <dl>
+      <dt>Technologies</dt>
+      <dd>C#, OpenStreetMap API</dd>
+
+      <dt>Links</dt>
+      <dd>
+        <ul>
+          <li><a href="https://github.com/mrmcnerd/address-locator">GitHub Repo</a></li>
+        </ul>
+      </dd>
+    </dl>
+  </li>
+
+  <li>
+    <h3>Grant Thornton Mobile App</h3>
+    <p>App to help recruit recent graduates to work with Grant Thornton.</p>
+    <dl>
+      <dt>Technologies</dt>
+      <dd>Android (Java), iOS (Objective-C), HTML, jQueryUI, Google App Engine</dd>
+
+      <dt>Links</dt>
+      <dd>
+        <ul>
+          <li><a href="https://play.google.com/store/apps/details?id=com.bluearkdesign.grantthornton&hl=en">Google Play Store</a></li>
+        </ul>
+      </dd>
+    </dl>
+  </li>
+
+  <li>
     <h3>Google Maps API</h3>
     <p>A demo going through a few interesting Google Maps API features.</p>
     <dl>
@@ -78,6 +110,22 @@ permalink: /projects/
   </li>
 
   <li>
+    <h3>Newtownbarry House Website</h3>
+    <p>Website using my own custom CMS.</p>
+    <dl>
+      <dt>Technologies</dt>
+      <dd>C#, ASP.NET Web Forms</dd>
+
+      <dt>Links</dt>
+      <dd>
+        <ul>
+          <li><a href="http://newtownbarryhouse.com/">Live Site</a></li>
+        </ul>
+      </dd>
+    </dl>
+  </li>
+
+  <li>
     <h3>Mac Archiving Shell Script</h3>
     <p>Simple bash script I use daily to keep my job folders organised.</p>
     <dl>
@@ -88,7 +136,6 @@ permalink: /projects/
       <dd>
         <ul>
           <li><a href="https://github.com/mrmcnerd/backup-jobs">GitHub Repo</a></li>
-          <li><a href="#">Video Walkthrough</a> (coming soon)</li>
         </ul>
       </dd>
     </dl>
@@ -105,7 +152,6 @@ permalink: /projects/
       <dd>
         <ul>
           <li><a href="https://github.com/mrmcnerd/job-folders">GitHub Repo</a></li>
-          <li><a href="#">Video Walkthrough</a> (coming soon)</li>
         </ul>
       </dd>
     </dl>
