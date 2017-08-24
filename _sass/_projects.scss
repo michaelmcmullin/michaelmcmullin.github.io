@@ -3,13 +3,23 @@
   margin: 0;
   padding: 0;
   
+  > li {
+    border: 1px solid $grey-color-light;
+    box-shadow: 0px 0px 5px $grey-color-light;
+    display: block;
+    margin-bottom: 16px;
+    overflow: hidden;
+    padding: 10px;
+  }
+
   h3 {
-    border-bottom: 1px solid #999;
-    clear: both;
-    font-size: 18px;
+    background: $grey-color-light;
+    border-bottom: 1px solid $grey-color-light;
+    font-size: 16px;
+    font-weight: bold;
+    margin: -10px;
     margin-bottom: 5px;
-    padding-bottom: 5px;
-    padding-top: 20px;
+    padding: 10px;
   }
   
   dl {
