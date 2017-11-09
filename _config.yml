@@ -15,6 +15,7 @@ url: "http://www.mrmcnerd.com" # the base hostname & protocol for your site
 twitter_username: nerdbehaviour
 github_username:  mrmcnerd
 linkedin_username: mcmullinmichael
+linkedin_name: linkedin
 
 # Build settings
 markdown: kramdown
