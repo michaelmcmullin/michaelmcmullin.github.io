@@ -143,6 +143,23 @@ https://github.com/mrmcnerd/JavaConsoleGraph
   </li>
 
   <li>
+    <h3>Seamless Backgrounds</h3>
+    <p>Simple little project for drawing repeating patterns in your browser.</p>
+    <dl>
+      <dt>Technologies</dt>
+      <dd>HTML, JavaScript, Canvas</dd>
+
+      <dt>Links</dt>
+      <dd>
+        <ul>
+          <li><a href="https://github.com/mrmcnerd/seamless-backgrounds">GitHub Repo</a></li>
+          <li><a href="https://mrmcnerd.github.io/seamless-backgrounds/">Live Demo</a></li>
+        </ul>
+      </dd>
+    </dl>
+  </li>
+
+  <li>
     <h3>Mac Archiving Shell Script</h3>
     <p>Simple bash script I use daily to keep my job folders organised.</p>
     <dl>
