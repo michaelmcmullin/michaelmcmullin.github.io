@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-
+https://github.com/mrmcnerd/JavaConsoleGraph
 <ul class="project-list">
   <li>
     <h3>Machine Learning Course</h3>
@@ -37,6 +37,23 @@ permalink: /projects/
       <dd>
         <ul>
           <li><a href="https://github.com/mrmcnerd/ngram-categorisation">GitHub Repo</a></li>
+        </ul>
+      </dd>
+    </dl>
+  </li>
+  
+  <li>
+    <h3>Java Console Graph</h3>
+    <p>A sample Java console project from college, rendering various functions crudely on the
+      console.</p>
+    <dl>
+      <dt>Technologies</dt>
+      <dd>Java</dd>
+
+      <dt>Links</dt>
+      <dd>
+        <ul>
+          <li><a href="https://github.com/mrmcnerd/JavaConsoleGraph">GitHub Repo</a></li>
         </ul>
       </dd>
     </dl>
