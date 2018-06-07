@@ -36,7 +36,7 @@ permalink: /projects/
       <dt>Links</dt>
       <dd>
         <ul>
-          <li><a href="https://github.com/mrmcnerd/ngram-categorisation">GitHub Repo</a></li>
+          <li><a href="https://github.com/michaelmcmullin/ngram-categorisation">GitHub Repo</a></li>
         </ul>
       </dd>
     </dl>
@@ -53,7 +53,7 @@ permalink: /projects/
       <dt>Links</dt>
       <dd>
         <ul>
-          <li><a href="https://github.com/mrmcnerd/JavaConsoleGraph">GitHub Repo</a></li>
+          <li><a href="https://github.com/michaelmcmullin/JavaConsoleGraph">GitHub Repo</a></li>
         </ul>
       </dd>
     </dl>
@@ -69,7 +69,7 @@ permalink: /projects/
       <dt>Links</dt>
       <dd>
         <ul>
-          <li><a href="https://github.com/mrmcnerd/address-locator">GitHub Repo</a></li>
+          <li><a href="https://github.com/michaelmcmullin/address-locator">GitHub Repo</a></li>
         </ul>
       </dd>
     </dl>
@@ -101,9 +101,9 @@ permalink: /projects/
       <dt>Links</dt>
       <dd>
         <ul>
-          <li><a href="https://github.com/mrmcnerd/Google-Maps-API-Demo">GitHub Repo</a></li>
+          <li><a href="https://github.com/michaelmcmullin/Google-Maps-API-Demo">GitHub Repo</a></li>
           <li><a href="https://youtu.be/-6bjXn8Lyuk">Video</a></li>
-          <li><a href="https://mrmcnerd.github.io/Google-Maps-API-Demo/">Live Demo</a></li>
+          <li><a href="https://michaelmcmullin.github.io/Google-Maps-API-Demo/">Live Demo</a></li>
         </ul>
       </dd>
     </dl>
@@ -119,8 +119,8 @@ permalink: /projects/
       <dt>Links</dt>
       <dd>
         <ul>
-          <li><a href="https://github.com/mrmcnerd/betterlifeindenmark">GitHub Repo</a></li>
-          <li><a href="https://mrmcnerd.github.io/betterlifeindenmark/">Live Demo</a></li>
+          <li><a href="https://github.com/michaelmcmullin/betterlifeindenmark">GitHub Repo</a></li>
+          <li><a href="https://michaelmcmullin.github.io/betterlifeindenmark/">Live Demo</a></li>
         </ul>
       </dd>
     </dl>
@@ -152,8 +152,8 @@ permalink: /projects/
       <dt>Links</dt>
       <dd>
         <ul>
-          <li><a href="https://github.com/mrmcnerd/seamless-backgrounds">GitHub Repo</a></li>
-          <li><a href="https://mrmcnerd.github.io/seamless-backgrounds/">Live Demo</a></li>
+          <li><a href="https://github.com/michaelmcmullin/seamless-backgrounds">GitHub Repo</a></li>
+          <li><a href="https://michaelmcmullin.github.io/seamless-backgrounds/">Live Demo</a></li>
         </ul>
       </dd>
     </dl>
@@ -169,7 +169,7 @@ permalink: /projects/
       <dt>Links</dt>
       <dd>
         <ul>
-          <li><a href="https://github.com/mrmcnerd/backup-jobs">GitHub Repo</a></li>
+          <li><a href="https://github.com/michaelmcmullin/backup-jobs">GitHub Repo</a></li>
         </ul>
       </dd>
     </dl>
@@ -185,7 +185,7 @@ permalink: /projects/
       <dt>Links</dt>
       <dd>
         <ul>
-          <li><a href="https://github.com/mrmcnerd/job-folders">GitHub Repo</a></li>
+          <li><a href="https://github.com/michaelmcmullin/job-folders">GitHub Repo</a></li>
         </ul>
       </dd>
     </dl>
